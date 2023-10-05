@@ -2,14 +2,13 @@
 ![Curso](https://img.shields.io/badge/Curso-1977--TSISB%20en%20desarrollo-blue)
 
 <p align="center">
-  <img src="https://www.unam.mx/sites/default/files/images/unam.svg" alt="Descripción de la imagen" width="200">
+  <img src="https://www.unam.mx/sites/default/files/images/unam.svg" alt=" " width="200">
 </p>
 
 Portafolio de trabajo referente a modelos de aprendizaje máquina para la clase:
 <p align = "center">
     <strong> **Tópicos Selectos en Ingeniería en Sistemas Biomédicos** </strong><br>
     <em>Semestre 2024-1</em>
-    <em>Alejandra Flores</em>
 </p>
 
 - [Enlace a Practica 1](practica_1/).- Práctica para mover, copiar y generar archivos mediante el uso de MATLAB
