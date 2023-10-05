@@ -9,6 +9,7 @@ Portafolio de trabajo referente a modelos de aprendizaje máquina para la clase:
 <p align = "center">
     <strong> **Tópicos Selectos en Ingeniería en Sistemas Biomédicos** </strong><br>
     <em>Semestre 2024-1</em>
+    <em>Alejandra Flores</em>
 </p>
 
 - [Enlace a Practica 1](practica_1/).- Práctica para mover, copiar y generar archivos mediante el uso de MATLAB
